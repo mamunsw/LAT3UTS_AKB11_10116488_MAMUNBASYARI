@@ -1,5 +1,9 @@
 package com.example.lat3uts_akb11_10116488_mamunbasyari.model;
-
+//
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 public class ModelDailyActivity {
 
     private int imgGambarDaily;

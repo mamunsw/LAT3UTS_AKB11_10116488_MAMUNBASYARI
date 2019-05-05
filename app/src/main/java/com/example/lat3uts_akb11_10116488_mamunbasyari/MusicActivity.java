@@ -11,7 +11,10 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.ArrayList;
-
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import com.example.lat3uts_akb11_10116488_mamunbasyari.R;
 import com.example.lat3uts_akb11_10116488_mamunbasyari.adapter.AdapterMusicActivity;
 import com.example.lat3uts_akb11_10116488_mamunbasyari.model.ModelMusicActivity;

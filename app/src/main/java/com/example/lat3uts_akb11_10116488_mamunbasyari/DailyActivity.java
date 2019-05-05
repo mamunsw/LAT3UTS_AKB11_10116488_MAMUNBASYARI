@@ -1,5 +1,9 @@
 package com.example.lat3uts_akb11_10116488_mamunbasyari;
-
+//
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;

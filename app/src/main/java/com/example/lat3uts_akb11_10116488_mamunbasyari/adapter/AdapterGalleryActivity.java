@@ -11,7 +11,10 @@ import android.widget.ImageView;
 
 import com.example.lat3uts_akb11_10116488_mamunbasyari.R;
 import com.example.lat3uts_akb11_10116488_mamunbasyari.model.ModelGalleryActivity;
-
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import java.util.ArrayList;
 
 

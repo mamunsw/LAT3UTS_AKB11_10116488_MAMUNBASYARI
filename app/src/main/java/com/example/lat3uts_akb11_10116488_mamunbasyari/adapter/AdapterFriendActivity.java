@@ -14,7 +14,10 @@ import com.example.lat3uts_akb11_10116488_mamunbasyari.model.ModelGalleryActivit
 
 import java.util.ArrayList;
 
-
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 public class AdapterFriendActivity extends RecyclerView.Adapter<AdapterFriendActivity.DailyViewHolder> {
 
     private ArrayList<ModelFriendActivity> mfriendList;

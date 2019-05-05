@@ -1,11 +1,8 @@
 package com.example.lat3uts_akb11_10116488_mamunbasyari;
-/**
- * Nim : 10116499
- * Nama : Fata El Islami
- * Kelas : AKB-11
- * Latihan 3 UTS
- * Tanggal : 30 April 2019
- */
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import android.app.Activity;
 import android.app.Dialog;
 import android.view.View;

@@ -1,5 +1,8 @@
 package com.example.lat3uts_akb11_10116488_mamunbasyari.adapter;
-
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

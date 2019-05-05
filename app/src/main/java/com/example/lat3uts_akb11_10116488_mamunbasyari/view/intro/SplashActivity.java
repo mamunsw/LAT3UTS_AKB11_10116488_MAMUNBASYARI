@@ -1,5 +1,9 @@
 package com.example.lat3uts_akb11_10116488_mamunbasyari.view.intro;
 
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;

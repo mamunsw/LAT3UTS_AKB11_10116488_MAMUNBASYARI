@@ -10,7 +10,10 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
 public class MusicVideoActivity extends Fragment implements BottomNavigationView.OnNavigationItemSelectedListener {
 
     @Nullable

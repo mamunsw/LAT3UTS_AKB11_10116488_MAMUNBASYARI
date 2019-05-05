@@ -10,6 +10,11 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+//<!-- Nama : Mamun Basyari
+//        Nim : 10116488
+//        Kelas : AKB11
+//        Tgl Kerja : 26-April-2019-->
+
 import com.example.lat3uts_akb11_10116488_mamunbasyari.MenuActivity;
 import com.example.lat3uts_akb11_10116488_mamunbasyari.R;
 
