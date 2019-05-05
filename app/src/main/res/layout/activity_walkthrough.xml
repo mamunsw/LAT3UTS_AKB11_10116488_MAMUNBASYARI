@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_background"
+    tools:context=".view.intro.WalkthroughActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/slidePager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="82dp"></android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/linearSlide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:padding="20dp" />
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="18sp"
+        android:textColor="@color/colorWhite"
+        android:onClick="btnNext"
+        android:background="@android:color/transparent"/>
+
+</RelativeLayout>
